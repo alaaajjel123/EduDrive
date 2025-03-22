@@ -10,6 +10,8 @@ EduDrive offers a unique blend of educational content and interactive gameplay, 
 - **Real-Time Driving Scenarios:** Unlike traditional quiz-based apps, EduDrive integrates real-time road situations where players must apply learned rules.
 - **Progressive Stages:** The game features multiple levels, each focusing on different driving rules, culminating in a final exam-like stage.
 
+![EduDrive Gameplay](eduDrive.PNG)
+
 ## Gameplay
 ### Objective
 - Successfully complete various game stages to finalize virtual driving training and prepare for a real driving license test.
